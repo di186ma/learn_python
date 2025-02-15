@@ -5,71 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d9f147-8d45-4856-8f55-977d1a7f3dec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter 3/3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 3/3.2 turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4 work_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/4.7 turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.12 work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.13 work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/5.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/5.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/my_graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 6/6.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 7/7.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 8/8.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 8/8.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter 2/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 3/3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 3/3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 3/3.2 turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 3/3.2 turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4 work_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4 work_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 4/4.7 turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 4/4.7 turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.12 work.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.12 work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.13 work.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.13 work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/5.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/5.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization1/5.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization1/5.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization1/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization1/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization1/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization1/rectangle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization2 turtle/5.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/5.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 5/modularization2 turtle/my_graphics.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/my_graphics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 6/6.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 6/6.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 7/7.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 7/7.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 8/8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 8/8.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +199,7 @@
       <workItem from="1739072771620" duration="4918000" />
       <workItem from="1739158408258" duration="34932000" />
       <workItem from="1739260013172" duration="98408000" />
-      <workItem from="1739612527174" duration="4801000" />
+      <workItem from="1739612527174" duration="5146000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,6 @@
+coffee_1
+456.0
+coffee_2
+876.7
+coffee_3
+45.0
