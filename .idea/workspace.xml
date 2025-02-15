@@ -5,7 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d9f147-8d45-4856-8f55-977d1a7f3dec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter 3/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 3/3.2 turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4 work_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4/4.7 turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.12 work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.13 work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/5.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/5.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization1/rectangle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/5.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5/modularization2 turtle/my_graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 6/6.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 7/7.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 8/8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 8/8.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +99,68 @@
   &quot;keyToString&quot;: {
     &quot;Python.1 work_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.1.2 turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 work_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.2 turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2 turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4 work_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.7 turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.12 work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.13 work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -72,16 +195,94 @@
       <workItem from="1738753652274" duration="8013000" />
       <workItem from="1738762592301" duration="741000" />
       <workItem from="1738763340964" duration="10000" />
+      <workItem from="1738763357825" duration="2689000" />
+      <workItem from="1738920135415" duration="1397000" />
+      <workItem from="1739008206745" duration="11937000" />
+      <workItem from="1739072771620" duration="4918000" />
+      <workItem from="1739158408258" duration="34932000" />
+      <workItem from="1739260013172" duration="98408000" />
+      <workItem from="1739612527174" duration="4801000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject5$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1738759513108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_python$2_2_turtle.coverage" NAME="2.2 turtle Coverage Results" MODIFIED="1738762774863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$7_15.coverage" NAME="7.15 Coverage Results" MODIFIED="1739514611051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$6_12.coverage" NAME="6.12 Coverage Results" MODIFIED="1739443017721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$7_12.coverage" NAME="7.12 Coverage Results" MODIFIED="1739509734368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$6_15.coverage" NAME="6.15 Coverage Results" MODIFIED="1739447965290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$8_1.coverage" NAME="8.1 Coverage Results" MODIFIED="1739531211350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 8" />
+    <SUITE FILE_PATH="coverage/learn_python$5_12_work.coverage" NAME="5.12 work Coverage Results" MODIFIED="1739376323407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1739425337850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1739465397944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1739297230028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1739439299299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$5_4.coverage" NAME="5.4 Coverage Results" MODIFIED="1739283532394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1739369110076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1739261356001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$4_6.coverage" NAME="4.6 Coverage Results" MODIFIED="1739264247577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$6_7.coverage" NAME="6.7 Coverage Results" MODIFIED="1739440550785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$6_18.coverage" NAME="6.18 Coverage Results" MODIFIED="1739449246187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1739277330090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$7_8.coverage" NAME="7.8 Coverage Results" MODIFIED="1739502598754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$4_work_1.coverage" NAME="4 work_1 Coverage Results" MODIFIED="1739414768653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$7_11.coverage" NAME="7.11 Coverage Results" MODIFIED="1739507800671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$7_5.coverage" NAME="7.5 Coverage Results" MODIFIED="1739468963449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$5_11.coverage" NAME="5.11 Coverage Results" MODIFIED="1739374812222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5/modularization2 turtle" />
+    <SUITE FILE_PATH="coverage/learn_python$6_11.coverage" NAME="6.11 Coverage Results" MODIFIED="1739441714278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1739176249695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3" />
+    <SUITE FILE_PATH="coverage/learn_python$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1739280241005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1739438456029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1738763467898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2" />
+    <SUITE FILE_PATH="coverage/learn_python$6_8.coverage" NAME="6.8 Coverage Results" MODIFIED="1739440908305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1739260547494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$7_9.coverage" NAME="7.9 Coverage Results" MODIFIED="1739504499021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$3_2_turtle.coverage" NAME="3.2 turtle Coverage Results" MODIFIED="1739618822566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3" />
+    <SUITE FILE_PATH="coverage/learn_python$rectangle2.coverage" NAME="rectangle2 Coverage Results" MODIFIED="1739373594961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5/modularization1" />
+    <SUITE FILE_PATH="coverage/learn_python$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1739465686989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1739438783822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1739175295889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3" />
+    <SUITE FILE_PATH="coverage/learn_python$4_4.coverage" NAME="4.4 Coverage Results" MODIFIED="1739262325831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$5_2.coverage" NAME="5.2 Coverage Results" MODIFIED="1739277887240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$5_5.coverage" NAME="5.5 Coverage Results" MODIFIED="1739283820880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$5_8.coverage" NAME="5.8 Coverage Results" MODIFIED="1739367570135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$6_9.coverage" NAME="6.9 Coverage Results" MODIFIED="1739441097829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$7_7.coverage" NAME="7.7 Coverage Results" MODIFIED="1739502259902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1739191960332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$5_10.coverage" NAME="5.10 Coverage Results" MODIFIED="1739374163170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5/modularization1" />
+    <SUITE FILE_PATH="coverage/learn_python$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1739450840332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$6_16.coverage" NAME="6.16 Coverage Results" MODIFIED="1739448285462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$7_10.coverage" NAME="7.10 Coverage Results" MODIFIED="1739505374647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$2_2_turtle.coverage" NAME="2.2 turtle Coverage Results" MODIFIED="1739617140707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2" />
+    <SUITE FILE_PATH="coverage/learn_python$7_13.coverage" NAME="7.13 Coverage Results" MODIFIED="1739512773579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$6_10.coverage" NAME="6.10 Coverage Results" MODIFIED="1739441525531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$7_2.coverage" NAME="7.2 Coverage Results" MODIFIED="1739463807703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$7_14.coverage" NAME="7.14 Coverage Results" MODIFIED="1739513675892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$4_7_turtle.coverage" NAME="4.7 turtle Coverage Results" MODIFIED="1739414745678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
+    <SUITE FILE_PATH="coverage/learn_python$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1739382539009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$5_6.coverage" NAME="5.6 Coverage Results" MODIFIED="1739293866948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1739263017316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4" />
     <SUITE FILE_PATH="coverage/PythonProject5$1_2_turtle.coverage" NAME="1.2 turtle Coverage Results" MODIFIED="1738757240755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$7_6.coverage" NAME="7.6 Coverage Results" MODIFIED="1739469253638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$2_work_1.coverage" NAME="2 work_1 Coverage Results" MODIFIED="1738763491891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2" />
+    <SUITE FILE_PATH="coverage/learn_python$5_13_work.coverage" NAME="5.13 work Coverage Results" MODIFIED="1739377127018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 5" />
+    <SUITE FILE_PATH="coverage/learn_python$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1739502987686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 7" />
+    <SUITE FILE_PATH="coverage/learn_python$6_6.coverage" NAME="6.6 Coverage Results" MODIFIED="1739439819582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
+    <SUITE FILE_PATH="coverage/learn_python$6_14.coverage" NAME="6.14 Coverage Results" MODIFIED="1739447672186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 6" />
     <SUITE FILE_PATH="coverage/PythonProject5$1_work_1.coverage" NAME="1 work_1 Coverage Results" MODIFIED="1738758705096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$main.coverage" NAME="main Coverage Results" MODIFIED="1738744266029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
